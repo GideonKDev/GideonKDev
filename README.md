@@ -1,22 +1,24 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, I'm Gideon Kiptoo Kirui</h1>
-<h3 align="center">💻 Software Engineering Student | Frontend Dev | OS & Cybersecurity Enthusiast</h3>
+<h1 align="center">Hi, I'm Gideon Kiptoo Kirui</h1>
+<h3 align="center">Software Engineering Student | Frontend Developer | OS & Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  🎓 Multimedia University of Kenya | 🐧 Linux Lover | 🔍 Reverse Engineering Explorer
+  <img src="https://img.shields.io/badge/Multimedia_University_of_Kenya-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux_Enthusiast-grey?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reverse_Engineering-black?style=flat-square&logo=gear&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🌱 Currently learning **Django**, **ReactJS**, and **Reverse Engineering**
-- 💻 Passionate about **Operating Systems** & **System Optimization**
-- 🧠 Exploring **Android Debugging (ADB)** and **Ethical Hacking**
-- 🎯 Goal: Build secure, beautiful, and efficient digital experiences
+## About Me
+- Currently learning **Django**, **ReactJS**, and **Reverse Engineering**
+- Passionate about **Operating Systems** and **System Optimization**
+- Exploring **Android Debugging (ADB)** and **Ethical Hacking**
+- Goal: Build secure, elegant, and efficient digital experiences
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GideonKDev&show_icons=true&theme=tokyonight" />
@@ -47,29 +49,31 @@
 
 ---
 
-## 🧠 Currently Exploring
-- 🧩 Reverse Engineering & Low-Level System Analysis  
-- ⚙️ Customizing Linux environments  
-- 🌐 Building interactive UIs with React + Django  
+## Currently Exploring
+- Reverse Engineering & Low-Level System Analysis  
+- Customizing Linux environments  
+- Building interactive UIs with React and Django  
 
 ---
 
-## 🎯 Fun Fact
-> “I love tweaking systems until they run faster than they were designed to.” ⚡  
+## Fun Fact
+> "I love tweaking systems until they run faster than they were designed to."
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 <p align="center">
-  <a href="https://github.com/GideonKiptooKirui"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/GideonKiptooKirui">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🌀 Visitor Counter
+### Visitor Counter
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GideonKiptooKirui&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
-
----
