@@ -2,8 +2,9 @@
 <h3 align="center">Software Engineering Student | Frontend Developer | OS & Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Learning+by+building+and+breaking+systems;Frontend+Development+and+Cybersecurity;C%2B%2B+%7C+JavaScript+%7C+Linux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Frontend-focused+developer+in+the+making;Cybersecurity+%26+Kali+Linux+explorer;JavaScript+%7C+C%2B%2B+%7C+Linux+%7C+iOS+Repair" alt="Typing SVG" />
 </p>
+
 
 ---
 
