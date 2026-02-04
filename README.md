@@ -12,12 +12,15 @@
 ### About Me
 
 - Bachelor of Science in **Software Engineering** student at **Multimedia University of Kenya**
-- Focused on **frontend development** using HTML, CSS, JavaScript, and React
-- Strong interest in **Operating Systems**, **Linux**, and **system optimization**
-- Exploring **cybersecurity**, **reverse engineering**, and **Android Debug Bridge (ADB)**
-- I enjoy learning by experimenting, breaking systems, and fixing them
-
----
+- Full-stack developer using **Python, Django, JavaScript, SQL, Firebase, C, and C++**
+- Strong interest in **Operating Systems**, **Linux**, and **System Optimization**
+- Exploring **Cybersecurity**, **Ethical Hacking**, and **Reverse Engineering**
+- Hands-on with **Android Debug Bridge (ADB)** and Android system troubleshooting
+- Experience servicing and restoring **iOS devices using 3uTools and iTunes-based workflows**
+- Comfortable working with **Kali Linux** and command-line environments
+- Experienced with GitHub workflows and developer tooling
+- I enjoy learning by experimenting, debugging systems, and fixing complex issues
+- Prefer practical, hands-on problem solving and real-world debugging
 
 ### Skills & Tools
 
