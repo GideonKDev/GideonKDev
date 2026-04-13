@@ -32,7 +32,7 @@
 
 ### Projects
 
-- [**Fanpage Printers Limited**](https://fanpageprinters.vercel.app) — Business website built to showcase printing services, company profile, and contact information with a clean, responsive UI  
+- [**Shyne Printers Limited**](https://shyneprinters.vercel.app) — Business website built to showcase printing services, company profile, and contact information with a clean, responsive UI  
 
 - [**eHealth Online Clinic**](https://ehealthclinic.vercel.app) — Online healthcare platform concept featuring service listings, appointment-focused layout, and user-friendly design for digital health access  
 
