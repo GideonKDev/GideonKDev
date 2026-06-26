@@ -185,8 +185,8 @@ A digital health access concept with appointment-focused UX, service listing arc
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66)](https://github.com/GideonKDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66)](https://linkedin.com/in/gideon-kirui)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF66)](mailto:gideonkirui@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66)](https://linkedin.com/in/developerkirui)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF66)](mailto:kiruigideon2006@gmail.com)
 
 <br/>
 
